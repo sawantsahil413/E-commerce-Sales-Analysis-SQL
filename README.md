@@ -33,4 +33,3 @@ GROUP BY, HAVING, ORDER BY, LIMIT, aggregate functions (SUM, AVG, COUNT), ROUND,
 
 ## Files
 - `ecommerce_sales_queries.sql`: all queries with comments
-- `screenshots/`: query outputs
